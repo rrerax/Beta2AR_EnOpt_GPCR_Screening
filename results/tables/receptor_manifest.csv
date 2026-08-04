@@ -1,0 +1,6 @@
+conformation_id,pdb_id,state_label,receptor_chain,native_ligand_resname,native_ligand_atoms,center_x,center_y,center_z,size_x,size_y,size_z,prepared_pdb,receptor_pdbqt,status
+inactive_carazolol_2RH1,2RH1,inactive,A,CAU,22,-30.386,9.489,6.751,25.595,24.0,24.0,data/processed/receptors/inactive_carazolol_2RH1.pdb,data/processed/receptors/inactive_carazolol_2RH1.pdbqt,ready
+inactive_carazolol_5D5A,5D5A,inactive,A,CAU,22,-30.584,9.601,6.668,25.589,24.0,24.0,data/processed/receptors/inactive_carazolol_5D5A.pdb,data/processed/receptors/inactive_carazolol_5D5A.pdbqt,ready
+active_gs_complex_3SN6,3SN6,active,R,P0G,27,19.724,6.018,-11.183,24.501,25.011,25.452,data/processed/receptors/active_gs_complex_3SN6.pdb,data/processed/receptors/active_gs_complex_3SN6.pdbqt,ready
+active_bi167107_4LDE,4LDE,active,A,P0G,27,-1.772,-13.05,-50.888,26.17,24.0,25.508,data/processed/receptors/active_bi167107_4LDE.pdb,data/processed/receptors/active_bi167107_4LDE.pdbqt,ready
+active_hbi_4LDL,4LDL,active,A,XQC,23,-2.326,-13.135,-51.806,25.012,24.0,27.553,data/processed/receptors/active_hbi_4LDL.pdb,data/processed/receptors/active_hbi_4LDL.pdbqt,ready

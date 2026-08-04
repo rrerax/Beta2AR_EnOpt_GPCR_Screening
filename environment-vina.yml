@@ -1,0 +1,15 @@
+name: beta2ar-enopt-screen
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - pyyaml
+  - requests
+  - rdkit
+  - openbabel
+  - smina
+  - jupyterlab
